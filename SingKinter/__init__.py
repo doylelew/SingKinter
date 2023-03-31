@@ -10,11 +10,11 @@ __email__ = "odoylerules@pennyworth.network"
 __status__ = "Development"
 
 from .SingWidgets import *
-
-print("Sinkinter was imported")
+from tkinter import Tk as Sk
 
 __all__ = [
     'SingWidgets',
+    'Sk',
 ]
 
 

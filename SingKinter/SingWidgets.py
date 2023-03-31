@@ -35,3 +35,8 @@ class SingWidgets:
 
     def render(self):
         PGP_Renderer(self.widget, self.pack, self.grid, self.place)
+
+# todo allow the ability to change the method of render
+
+# todo allow the ability to change the wrapped widget
+

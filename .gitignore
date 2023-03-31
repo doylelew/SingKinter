@@ -5,6 +5,9 @@
 # Environment
 SKVenv/
 
+# File Debugging
+DebugTest.py
+
 
 ##################################################################
 # Git Bioler Ignore

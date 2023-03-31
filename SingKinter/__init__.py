@@ -9,4 +9,13 @@ __maintainer__ = "Doyle Lewis"
 __email__ = "odoylerules@pennyworth.network"
 __status__ = "Development"
 
+from .SingWidgets import *
+
+print("Sinkinter was imported")
+
+__all__ = [
+    'SingWidgets',
+]
+
+
 

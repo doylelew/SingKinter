@@ -35,4 +35,3 @@ class SingWidgets:
 
     def render(self):
         PGP_Renderer(self.widget, self.pack, self.grid, self.place)
-        self.widget.pack()
